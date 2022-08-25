@@ -1,0 +1,49 @@
+body
+{
+    font-family: 'Special Elite', cursive;
+    background-color: plum;
+}
+
+.header_div
+{
+    background-color: mediumpurple;
+    color: deepskyblue;
+}
+
+.header_div img
+{
+    width: 100px;
+}
+
+.main_div
+{
+    background-color: orchid;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label
+{
+    background: rgb(162, 160, 221);
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+    width: 310px;
+}
+
+#camera
+{
+    border: 2px solid white;
+    width: 310px;
+    box-shadow: 5px 5px 18px white;
+    height: 300px;
+}
+
+.main_div button
+{
+    font-size: 16px;
+    width: 310px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
